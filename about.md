@@ -4,5 +4,4 @@ title: About
 ---
 # About page
 
-This is my portfolio/CV website :). 
-
+This page tells you a little bit about me.
